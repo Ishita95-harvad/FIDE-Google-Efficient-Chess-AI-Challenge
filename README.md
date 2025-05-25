@@ -20,6 +20,6 @@ efficient-chess-agents/
 
 ## 🧠 AI Agents Workflow
 
-![Chess AI Agents Workflow](images/chess_workflow.png)
+![Chess AI Agents Workflow](30b12fa6-a06c-4e9b-9ed5-50e08164c795.png)
 
 
