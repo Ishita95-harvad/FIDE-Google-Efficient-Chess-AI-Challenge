@@ -17,3 +17,7 @@ efficient-chess-agents/
 ├── .gitignore              # Python cache, zip files, logs, etc.
 
 └── zip_submission.sh       # Script to zip files for submission (<64KiB)
+
+## 🧠 AI Agents Workflow
+
+![Chess AI Agents Workflow](images/chess_workflow.png)
